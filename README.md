@@ -58,7 +58,7 @@ Estilos: Utilizan Material-UI para garantizar un diseño moderno y responsivo.
 
 Clonar el repositorio
 
-git clone <URL-del-repositorio>
+git clone <https://github.com/JulianL1984/challenge-aluraflix.git>
 
 Instalar dependencias
 
